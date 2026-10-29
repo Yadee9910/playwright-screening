@@ -1,0 +1,18 @@
+{
+  "name": "playwright-screening",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright Test + TypeScript screening task: TodoMVC demo and playwright.dev",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:chromium": "playwright test --project=chromium",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3"
+  }
+}
