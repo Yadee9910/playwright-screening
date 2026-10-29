@@ -2,7 +2,7 @@
 
 Playwright Test + TypeScript tests for the [TodoMVC demo](https://demo.playwright.dev/todomvc) and [playwright.dev](https://playwright.dev), run in Chromium and Firefox.
 
-**CI run:** _add link to a passing GitHub Actions run here_
+**CI run:** (https://github.com/Yadee9910/playwright-screening/actions/runs/40832451510)
 
 ## Install
 
